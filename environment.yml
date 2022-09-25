@@ -1,0 +1,6 @@
+name: dafd
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+prefix: C:\Users\dpmc\Miniconda3\envs\dafd
